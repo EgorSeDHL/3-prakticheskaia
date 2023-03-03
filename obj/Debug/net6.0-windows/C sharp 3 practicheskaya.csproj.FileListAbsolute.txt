@@ -1,0 +1,28 @@
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.csproj.AssemblyReference.cache
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya_MarkupCompile.cache
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya_MarkupCompile.lref
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\C sharp 3 practicheskaya.exe
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\C sharp 3 practicheskaya.deps.json
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\C sharp 3 practicheskaya.runtimeconfig.json
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\C sharp 3 practicheskaya.dll
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\C sharp 3 practicheskaya.pdb
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\App.baml
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.g.resources
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.AssemblyInfoInputs.cache
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.AssemblyInfo.cs
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.csproj.CopyComplete
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.dll
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\refint\C sharp 3 practicheskaya.dll
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.pdb
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\C sharp 3 practicheskaya.genruntimeconfig.cache
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\obj\Debug\net6.0-windows\ref\C sharp 3 practicheskaya.dll
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\egork\source\repos\C sharp 3 practicheskaya\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
